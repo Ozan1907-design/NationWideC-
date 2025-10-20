@@ -17,7 +17,7 @@ namespace HelloWorld2
                 arr[i] = i + 1;
                 Console.WriteLine(arr[i]);
             }
-            Console.WriteLine("Hello World, my name is " + name);
+            Console.WriteLine("Hello World, my name is tester version " + name);
             
         }
     }
